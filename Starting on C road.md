@@ -13,5 +13,5 @@ int main(int)
 }
 ```
 
-###Local git connection is built, I will push some exercise code to remote repository.
+### Local git connection is built, I will push some exercise code to remote repository.
 Sep. 9th/2017

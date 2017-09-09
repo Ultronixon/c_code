@@ -12,3 +12,6 @@ int main(int)
     return 0;
 }
 ```
+
+###Local git connection is built, I will push some exercise code to remote repository.
+Sep. 9th/2017
